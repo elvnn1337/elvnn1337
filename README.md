@@ -6,7 +6,7 @@
 
 ### 🔭 I’m currently working on ...
 
-### 💬 About me : I leben in Deutschland and doing Roblox Server
+### 💬 About me ...
 
 
 
