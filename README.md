@@ -6,10 +6,12 @@
 
 ### 🔭 I’m currently working on ...
 
+### 💬 About me : I leben in Deutschland and doing Roblox Server
 
 
 
 ### 📫 How to reach me: Discord [elvnn1337]
+
 
 
 <!--
