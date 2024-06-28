@@ -1,16 +1,7 @@
 ### Hi there 👋
 
 
-
-### 🌱 I’m currently learning ...
-
-### 🔭 I’m currently working on ...
-
-### 💬 About me ...
-
-
-
-### 📫 How to reach me: Discord [elvnn1337]
+### 📫 How to reach me: You can reach me via, Discord (elvnn123)
 
 
 
