@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-### 📫 How to reach me: You can reach me via, Discord (elvnn123)
+### 📫 How to reach me: You can reach me via. Discord (elvnn123)
 
 
 
