@@ -1,7 +1,14 @@
 ### Hi there 👋
 
 
-### 📫 How to reach me: You can reach me via. Discord (elvnn123)
+
+- 📨 How to reach me: You can reach me via. Discord (elvnn1337)
+
+- 📖 What i'm currently learning: Vuejs, React
+
+- 🏭 What project's im currently working on: soon...
+
+- ❓ If you got any question's about: My Projects i'm working on dm me on Discord!
 
 
 
