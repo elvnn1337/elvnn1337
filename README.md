@@ -3,7 +3,7 @@
 ### 💻 How you can reach me [Click here!](https://discord.com/users/1005345321833992235)
 ### 👨‍💻 All of my work is available at [Click here!](https://elvnn1337.gg/)
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/1337elvnn) 
 
 # 👨‍🎓 What i´m currently Learning:
