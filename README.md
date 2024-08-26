@@ -1,28 +1,17 @@
-### Hi there 👋
+# 💫 About Me:
 
+### 💻 How you can reach me [Click here!](https://discord.com/users/1005345321833992235)
+### 👨‍💻 All of my work is available at [Click here!](https://elvnn1337.gg/)
 
+## 🌐 Socials:
+[![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/1337elvnn) 
 
-- 📨 How to reach me: You can reach me via. Discord (elvnn1337)
+# 👨‍🎓 What i´m currently Learning:
+![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
-- 📖 What i'm currently learning: Vuejs, React
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=elvnn1337&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-- 🏭 What project's im currently working on: soon...
+---
+[![](https://visitcount.itsvg.in/api?id=elvnn1337&icon=0&color=0)](https://visitcount.itsvg.in)
 
-- ❓ If you got any question's about: My Projects i'm working on dm me on Discord!
-
-
-
-<!--
-**elvnn123/elvnn123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
