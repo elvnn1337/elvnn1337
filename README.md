@@ -7,8 +7,7 @@
 [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/1337elvnn) 
 
 # 👨‍🎓 What i´m currently Learning:
-![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-
+![Next JS](https://img.shields.io/badge/next.js-%2335495e.svg?style=for-the-badge&logo=nextdotjs&logoColor=%000000)
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=elvnn1337&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
