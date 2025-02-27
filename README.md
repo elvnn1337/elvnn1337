@@ -7,7 +7,7 @@
 [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/1337elvnn) 
 
 # 👨‍🎓 What i´m currently Learning:
-![Next JS](https://img.shields.io/badge/next.js-%2335495e.svg?style=for-the-badge&logo=nextdotjs&logoColor=%000000)
+![Next.js](https://img.shields.io/badge/Next.js-%2335495e.svg?style=for-the-badge&logo=nextdotjs&logoColor=white)
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=elvnn1337&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
